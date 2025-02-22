@@ -1,2 +1,2 @@
 # ATM
-This is our ATM Project with using simple core java concept.
+This is my ATM Project with using simple core java concept.
